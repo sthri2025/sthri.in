@@ -1,0 +1,16 @@
+{
+  "name": "sthri-portfolio",
+  "private": true,
+  "version": "2.0.0",
+  "scripts": {
+    "build": "next build",
+    "dev": "node scripts/dev.mjs"
+  },
+  "dependencies": {
+    "next": "^16.0.10",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "gsap": "^3.14.0",
+    "lenis": "^1.3.0"
+  }
+}
